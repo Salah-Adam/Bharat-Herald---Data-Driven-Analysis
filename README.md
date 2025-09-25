@@ -7,7 +7,7 @@ Bharat Herald, a legacy newspaper organization, faced sharp decline in print cir
 
 ## Resources
 - Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/21">Challenge</a>
-- Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/Insights/Bharat%20Herald%20Analysis.pbix">Interactive Dashboard</a>
+- Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/Insights/Bharat%20Herald%20Analysis.pbix">Interactive Dashboard With the Presentation</a>
 - Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/MySQL/the%20DB%20used%20.sql">MySQL DB Schema</a>
 
 - The other files in this repository including CSV, excel and text files are the data source and can also be downloaded from <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/21">codebasics website</a> 
@@ -17,7 +17,8 @@ Bharat Herald, a legacy newspaper organization, faced sharp decline in print cir
 - Identify recovery potential.
 - Recommend a phased roadmap toward digital transformation.
 
-## <a href="https://www.youtube.com/watch?v=XzL2z64QrEM&t=12s">Youtube Presentation</a> 
+## Presentation
+### <a href="https://www.youtube.com/watch?v=XzL2z64QrEM&t=12s">Presentation Video</a> 
 
  
 ## Print Circulation dashbaord.
