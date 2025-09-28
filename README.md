@@ -8,6 +8,7 @@ Bharat Herald, a legacy newspaper organization, faced sharp decline in print cir
 ## Resources
 - Link to the <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/21">Challenge</a>
 - Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/Insights/Bharat%20Herald%20-%20newspaper.pbix">Interactive Dashboard With the Presentation</a>
+- Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/Insights/Business%20Request%20Solution.sql">SQL Report Solution</a>
 - Link to the <a href="https://github.com/Salah-Adam/Bharat-Herald---Data-Driven-Analysis/blob/main/MySQL/the%20DB%20used%20.sql">MySQL DB Schema</a>
 
 - The other files in this repository including CSV, excel and text files are the data source and can also be downloaded from <a href="https://codebasics.io/challenges/codebasics-resume-project-challenge/21">codebasics website</a> 
