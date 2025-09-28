@@ -18,7 +18,7 @@ Bharat Herald, a legacy newspaper organization, faced sharp decline in print cir
 - Recommend a phased roadmap toward digital transformation.
 
 ## Presentation
-### <a href="https://www.youtube.com/watch?v=XzL2z64QrEM&t=12s">Presentation Video</a> 
+### <a href="https://youtu.be/2hkA8bmAs9g?si=tghkmTlAHEHaMWcr">Presentation Video</a> 
 
  
 ## Print Circulation dashbaord.
