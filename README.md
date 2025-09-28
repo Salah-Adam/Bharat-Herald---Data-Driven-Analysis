@@ -28,7 +28,8 @@ Bharat Herald, a legacy newspaper organization, faced sharp decline in print cir
 <img width="1153" height="603" alt="revenue" src="https://github.com/user-attachments/assets/8fa958b8-86a9-4a28-aace-7394d19de7b1" />
 
  ## Engagement Analysis
-<img width="1155" height="602" alt="pilot engagement" src="https://github.com/user-attachments/assets/51325b77-de6a-4493-857a-745edcf389e8" />
+<img width="1156" height="600" alt="pilot" src="https://github.com/user-attachments/assets/2ad5653a-81fd-4d1f-b034-b0a3f3f3f80e" />
+
 
 ## 🛠 Tools & Skills
 - Data Analysis
